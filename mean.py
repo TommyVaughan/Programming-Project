@@ -8,17 +8,11 @@
 import numpy
 # Read data file into array
 data = numpy.genfromtxt('Data/iris.csv', delimiter=',')
-
-column = data[:,3]    
-meancol = numpy.mean(data[:,3])
+# To select all of the values of a column
+column = data[:,0]    
+# To get the mean value of that column
+meancol = numpy.mean(data[:,0])
 print(meancol)
-
-
-
-
-
-
-
 
 
 
@@ -27,4 +21,4 @@ print(meancol)
 # mean of col 1 = 5.843
 # mean of col 2 = 3.054
 # mean of col 3 = 3.758
-# mean of col 4 = 1.20
+# mean of col 4 = 1.198
