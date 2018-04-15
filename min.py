@@ -10,7 +10,7 @@ data = numpy.genfromtxt('Data/iris.csv', delimiter=',')   # Reads a csv in array
 
 column = data[:,0]                                        # To select all of the values of a column
 
-mincol = numpy.min(data[:,0])                            # To get the min value of that column
+mincol = numpy.min(data[:,0])                             # To get the minimum value of that column
 print(mincol)
 
 
