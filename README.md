@@ -4,6 +4,7 @@
 In this project I will be looking at the Iris data set. 
 1) I will provide a brief summary of what the Iris data set is and what it contains. 
 2) I will upload the data into Visual Studio so summarize and visualize the data set using the Python programming language.
+3) I will evaluate some algorithms and make some predictions from the analysis of the data through Visual Studio.
 
 #### Fisher’s Iris Data Set
 
@@ -13,4 +14,8 @@ The data set consists of the measurements of four attributes of 150 iris flowers
 #### Where to find the data set
 
 The data set can be found from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris) 
+
+#### List of folders and their functions
+
+1) openfile.py will provide a look at all of the data in the uploaded iris.csv file.
 
