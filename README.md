@@ -17,5 +17,8 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 #### List of folders and their functions
 
-1) openfile.py will provide a look at all of the data in the uploaded iris.csv file.
+1) openfile.py provides a look at all of the data in the uploaded iris.csv file.
+2) mean.py calculates the average value of each column in the data set.
+3) min.py calculates the minimum value of each colunm in the data set.
+4) max.py calculates the maximum value of each column in the data set.
 
