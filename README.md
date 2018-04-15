@@ -3,7 +3,7 @@
 ### Assigned project for programming &amp; scripting module 2018
 In this project I will be looking at the Iris data set. 
 1) I will provide a brief summary of what the Iris data set is and what it contains. 
-2) I will upload the data into Visual Studio so summarize and visualize the data set using the Python programming language.
+2) I will upload the data into Visual Studio to summarize and visualize the data set using the Python programming language.
 3) I will evaluate some algorithms and make some predictions from the analysis of the data through Visual Studio.
 
 #### Fisher’s Iris Data Set
