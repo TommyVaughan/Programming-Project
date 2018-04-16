@@ -21,4 +21,4 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 2) mean.py calculates the average value of each column in the data set.
 3) min.py calculates the minimum value of each colunm in the data set.
 4) max.py calculates the maximum value of each column in the data set.
-
+5) stand.py calculates the standard deviation of each column in the data set.
