@@ -1,11 +1,3 @@
-
-
-import numpy                                              # Read data file into array
-
-data = numpy.genfromtxt('Data/iris.csv', delimiter=',')   # Reads a csv in array in numpy
-
-column = data[:,0]                                        # To select all of the values of a column
-
-mincol = numpy.min(data[:,0])                           # To get the mean value of that column
-print(mincol)
-
+with open("Data/iris.csv") as f:
+ for line in f: 
+  print('{:4} {:4} {:4} {:4} '.format(line.split(',')[0], line.split(',')[1], line.split(',')[2], line.split(',')[3])) 
