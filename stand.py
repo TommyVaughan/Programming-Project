@@ -14,8 +14,6 @@ stand = numpy.std(data[:,0])                              # To get the standard 
 print(stand)
 
 
-
-
 # standard deviation of col 1 (Sepal-length)  = 0.825
 # standard deviation of col 2 (Sepal-width)   = 0.432
 # standard deviation of col 3 (Petal-lenght)  = 1.758

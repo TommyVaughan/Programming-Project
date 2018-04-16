@@ -14,9 +14,11 @@ meancol = numpy.mean(data[:,0])                           # To get the mean valu
 print(meancol)
 
 
-
-
 # mean of col 1 (Sepal-length)  = 5.843
 # mean of col 2 (Sepal-width)   = 3.054
 # mean of col 3 (Petal-lenght)  = 3.758
 # mean of col 4 (Petal-width)   = 1.198
+
+import matplotlib.pyplot as mp      # import the matplotlib pyplot library
+mp.hist(column)                     # generate a histogram
+mp.show()                           # show the histogram

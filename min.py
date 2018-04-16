@@ -14,8 +14,6 @@ mincol = numpy.min(data[:,0])                             # To get the minimum v
 print(mincol)
 
 
-
-
 # min of col 1 (Sepal-length   = 4.3
 # min of col 2 (Sepal-width)   = 2.0
 # min of col 3 (Petal-lenght)  = 1.0

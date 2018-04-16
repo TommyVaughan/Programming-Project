@@ -14,8 +14,6 @@ maxcol = numpy.max(data[:,0])                             # To get the maximum v
 print(maxcol)
 
 
-
-
 # max of col 1 (Sepal-length)  = 7.9
 # max of col 2 (Sepal-width)   = 4.4
 # max of col 3 (Petal-lenght)  = 6.9
