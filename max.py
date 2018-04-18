@@ -3,8 +3,7 @@
 # Column = data[:,0] gives the first column.
 # To calculate each column, change both the 0's to 1's to get the second column, 2 for the third and so on.
 
-
-import numpy                                              # Read data file into array
+import numpy                                              # Read data file into arra
 
 data = numpy.genfromtxt('Data/iris.csv', delimiter=',')   # Reads a csv in array in numpy
 
