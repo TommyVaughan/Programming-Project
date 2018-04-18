@@ -21,8 +21,9 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 2) mean.py calculates the average value of each column in the data set.
 3) min.py calculates the minimum value of each colunm in the data set.
 4) max.py calculates the maximum value of each column in the data set.
-5) stand.py calculates the standard deviation of each column in the data set.
-6) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
+5) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
+
+![](Really.JPG)
 
 #### Looking at the data
 
@@ -44,11 +45,7 @@ The maximum of each column:
 3) max of col 3 (Petal-lenght)  = 6.9
 4) max of col 4 (Petal-width)   = 2.5
 
-The standard deviation of each column:
-1) standard deviation of col 1 (Sepal-length)  = 0.825
-2) standard deviation of col 2 (Sepal-width)   = 0.432
-3) standard deviation of col 3 (Petal-lenght)  = 1.758
-4) standard deviation of col 4 (Petal-width)   = 0.760
+
 
 
 
