@@ -22,3 +22,33 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 3) min.py calculates the minimum value of each colunm in the data set.
 4) max.py calculates the maximum value of each column in the data set.
 5) stand.py calculates the standard deviation of each column in the data set.
+
+#### Looking at the data
+
+The mean of each column:
+mean of col 1 (Sepal-length)  = 5.843
+mean of col 2 (Sepal-width)   = 3.054
+mean of col 3 (Petal-lenght)  = 3.758
+mean of col 4 (Petal-width)   = 1.198
+
+The minimum of each column:
+min of col 1 (Sepal-length   = 4.3
+min of col 2 (Sepal-width)   = 2.0
+min of col 3 (Petal-lenght)  = 1.0
+min of col 4 (Petal-width)   = 0.1
+
+The maximum of each column:
+max of col 1 (Sepal-length)  = 7.9
+max of col 2 (Sepal-width)   = 4.4
+max of col 3 (Petal-lenght)  = 6.9
+max of col 4 (Petal-width)   = 2.5
+
+The standard deviation of each column:
+standard deviation of col 1 (Sepal-length)  = 0.825
+standard deviation of col 2 (Sepal-width)   = 0.432
+standard deviation of col 3 (Petal-lenght)  = 1.758
+standard deviation of col 4 (Petal-width)   = 0.760
+
+
+
+
