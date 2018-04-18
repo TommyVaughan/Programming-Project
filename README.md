@@ -27,7 +27,8 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 ![](Describe.JPG)
      
-      
+ Sepal Length histogram.
+ ![](Col1hist.png)
      
 
 
