@@ -26,28 +26,28 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 #### Looking at the data
 
 The mean of each column:
-a) mean of col 1 (Sepal-length)  = 5.843
-b) mean of col 2 (Sepal-width)   = 3.054
-c) mean of col 3 (Petal-lenght)  = 3.758
-d) mean of col 4 (Petal-width)   = 1.198
+1) mean of col 1 (Sepal-length)  = 5.843
+2) mean of col 2 (Sepal-width)   = 3.054
+3) mean of col 3 (Petal-lenght)  = 3.758
+4) mean of col 4 (Petal-width)   = 1.198
 
 The minimum of each column:
-a )min of col 1 (Sepal-length   = 4.3
-b) min of col 2 (Sepal-width)   = 2.0
-c) min of col 3 (Petal-lenght)  = 1.0
-d) min of col 4 (Petal-width)   = 0.1
+1)min of col 1 (Sepal-length   = 4.3
+2) min of col 2 (Sepal-width)   = 2.0
+3) min of col 3 (Petal-lenght)  = 1.0
+4) min of col 4 (Petal-width)   = 0.1
 
 The maximum of each column:
-a) max of col 1 (Sepal-length)  = 7.9
-b) max of col 2 (Sepal-width)   = 4.4
-c) max of col 3 (Petal-lenght)  = 6.9
-d) max of col 4 (Petal-width)   = 2.5
+1) max of col 1 (Sepal-length)  = 7.9
+2) max of col 2 (Sepal-width)   = 4.4
+3) max of col 3 (Petal-lenght)  = 6.9
+4) max of col 4 (Petal-width)   = 2.5
 
 The standard deviation of each column:
-a) standard deviation of col 1 (Sepal-length)  = 0.825
-b) standard deviation of col 2 (Sepal-width)   = 0.432
-c) standard deviation of col 3 (Petal-lenght)  = 1.758
-d) standard deviation of col 4 (Petal-width)   = 0.760
+1) standard deviation of col 1 (Sepal-length)  = 0.825
+2) standard deviation of col 2 (Sepal-width)   = 0.432
+3) standard deviation of col 3 (Petal-lenght)  = 1.758
+4) standard deviation of col 4 (Petal-width)   = 0.760
 
 
 
