@@ -27,19 +27,19 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 ![](Describe.JPG)
      
-# Sepal Length histogram.
+#### Sepal Length histogram.
  
  ![](Col1hist.png)
      
-# Sepal Width histogram.
+#### Sepal Width histogram.
 
 ![](Col2hist.png)
 
-# Petal Length histogram.
+#### Petal Length histogram.
 
 ![](Col3hist.png)
 
-# Petal Width histogram.
+#### Petal Width histogram.
 
 ![](Col4.hist.png)
 
