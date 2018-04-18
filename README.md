@@ -23,7 +23,7 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 4) max.py calculates the maximum value of each column in the data set.
 5) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
 
-#### Looking at the data
+#### A quick look at the data
 
 ![](Describe.JPG)
      
