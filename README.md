@@ -32,7 +32,7 @@ The mean of each column:
 4) mean of col 4 (Petal-width)   = 1.198
 
 The minimum of each column:
-1)min of col 1 (Sepal-length   = 4.3
+1) min of col 1 (Sepal-length   = 4.3
 2) min of col 2 (Sepal-width)   = 2.0
 3) min of col 3 (Petal-lenght)  = 1.0
 4) min of col 4 (Petal-width)   = 0.1
