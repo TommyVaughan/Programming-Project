@@ -15,13 +15,14 @@ The data set consists of the measurements of four attributes of 150 iris flowers
 
 The data set can be found from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris) 
 
-#### List of folders and their functions
+#### List of folders and their contents
 
 1) openfile.py provides a look at all of the data in the uploaded iris.csv file.
 2) mean.py calculates the average value of each column in the data set.
 3) min.py calculates the minimum value of each colunm in the data set.
 4) max.py calculates the maximum value of each column in the data set.
 5) stand.py calculates the standard deviation of each column in the data set.
+6) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
 
 #### Looking at the data
 
