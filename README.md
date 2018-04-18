@@ -27,23 +27,15 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 #### Looking at the data
 
-The mean of each column:
-1) mean of col 1 (Sepal-length)  = 5.843
-2) mean of col 2 (Sepal-width)   = 3.054
-3) mean of col 3 (Petal-lenght)  = 3.758
-4) mean of col 4 (Petal-width)   = 1.198
-
-The minimum of each column:
-1) min of col 1 (Sepal-length   = 4.3
-2) min of col 2 (Sepal-width)   = 2.0
-3) min of col 3 (Petal-lenght)  = 1.0
-4) min of col 4 (Petal-width)   = 0.1
-
-The maximum of each column:
-1) max of col 1 (Sepal-length)  = 7.9
-2) max of col 2 (Sepal-width)   = 4.4
-3) max of col 3 (Petal-lenght)  = 6.9
-4) max of col 4 (Petal-width)   = 2.5
+ Sepal Length  Sepal Width  Petal Length  Petal Width
+count    150.000000   150.000000    150.000000   150.000000
+mean       5.843333     3.054000      3.758667     1.198667
+std        0.828066     0.433594      1.764420     0.763161
+min        4.300000     2.000000      1.000000     0.100000
+25%        5.100000     2.800000      1.600000     0.300000
+50%        5.800000     3.000000      4.350000     1.300000
+75%        6.400000     3.300000      5.100000     1.800000
+max        7.900000     4.400000      6.900000     2.500000
 
 
 
