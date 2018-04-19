@@ -63,16 +63,27 @@ Below is a brief look at some of the basic information of the data set such as t
 
 #### References
 References:
-[1]https://en.wikipedia.org/wiki/Iris_flower_data_set
-[2]https://en.wikipedia.org/wiki/Multivariate_statistics
-[3]http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/
-[4]http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html
-[5]http://www.newworldencyclopedia.org/entry/Ronald_Fisher
-[6]http://archive.ics.uci.edu/ml/datasets/Iris
-[7]http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/
-[8]https://www.youtube.com/watch?v=uIcime2nBjs 
-[9]http://pythonforengineers.com/introduction-to-pandas/
-[10]https://www.novixys.com/blog/pandas-tutorial-select-dataframe/
+https://en.wikipedia.org/wiki/Iris_flower_data_set - Information on the Iris data set
+
+http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/ - Information on the Iris data set
+
+http://archive.ics.uci.edu/ml/datasets/Iris - Iris data set can be downloaded here
+
+http://www.newworldencyclopedia.org/entry/Ronald_Fisher - Information on Ronald Fisher
+
+https://en.wikipedia.org/wiki/Multivariate_statistics - Explanation of Multivariate statistics
+
+http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html - Case study on Iris data classification
+
+http://pythonforengineers.com/introduction-to-pandas/ - Introduction to Pandas
+
+https://www.novixys.com/blog/pandas-tutorial-select-dataframe/ - More information on Pandas specvifically how to extract information on specific rows of data only
+
+http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/ - Information on the Pandas library
+
+https://www.youtube.com/watch?v=uIcime2nBjs - Video showing how to display all columns in the data set in Python
+
+
 
 
 
