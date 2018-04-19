@@ -43,6 +43,19 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 ![](Col4.hist.png)
 
+# Breaking down the data further
+#### The Setosa data
+
+![](seto.JPG)
+
+#### The Versicolor data
+
+![](versi.JPG)
+
+#### The Virginica data
+
+![](virgi.JPG)
+
 
 
 
