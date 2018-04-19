@@ -24,7 +24,7 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 5) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
 6) species.py splits the data into the three seperate species for further analysis.
 
-#### A quick look at the data
+# A quick look at the data
 
 ![](Describe.JPG)
      
