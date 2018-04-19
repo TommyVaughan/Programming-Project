@@ -77,7 +77,7 @@ http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b1128
 
 http://pythonforengineers.com/introduction-to-pandas/ - Introduction to Pandas
 
-https://www.novixys.com/blog/pandas-tutorial-select-dataframe/ - More information on Pandas specvifically how to extract information on specific rows of data only
+https://www.novixys.com/blog/pandas-tutorial-select-dataframe/ - More information on Pandas specifically how to extract information on specific rows of data only
 
 http://www.developintelligence.com/blog/2017/08/data-cleaning-pandas-python/ - Information on the Pandas library
 
