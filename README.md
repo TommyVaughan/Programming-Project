@@ -73,6 +73,8 @@ http://www.newworldencyclopedia.org/entry/Ronald_Fisher - Information on Ronald 
 
 https://en.wikipedia.org/wiki/Multivariate_statistics - Explanation of Multivariate statistics
 
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ - Simple project on the Iris data set
+
 http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html - Case study on Iris data classification
 
 http://pythonforengineers.com/introduction-to-pandas/ - Introduction to Pandas
