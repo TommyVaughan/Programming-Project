@@ -19,11 +19,11 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 1) openfile.py provides a look at all of the data in the uploaded iris.csv file.
 2) mean.py calculates the average value of each column in the data set and also includes script for generating histograms.
-3) min.py calculates the minimum value of each colunm in the data set.
+3) min.py calculates the minimum value of each column in the data set.
 4) max.py calculates the maximum value of each column in the data set.
 5) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
-6) whisk.py generates a box and whisker plot.
-7) scat.py generates scatter plot.
+6) whisk.py generates a box and whisker plot of the data.
+7) scat.py generates a scatter plot of the data.
 8) species.py splits the data into the three seperate species for further analysis.
 
 
