@@ -4,7 +4,7 @@
 In this project I will be looking at the Iris data set. 
 1) I will provide a brief summary of what the Iris data set is and what it contains. 
 2) I will upload the data into Visual Studio Code to summarize and visualize the data set using the Python programming language.
-3) I will evaluate some algorithms and make some predictions from the analysis of the data through Visual Studio Code.
+3) I will provide some analysis of the data through Visual Studio Code.
 
 ## 1. Fisher’s Iris Data Set
 
@@ -69,6 +69,13 @@ Below is a brief look at some of the basic information of the data set such as t
 #### The Virginica data
 
 ![](virgi.JPG)
+
+## Analysis of the Data
+
+As the focus of this module has been around writing code in Python, and has not really touched on data analysis methodologies and techniques for analysing graphical information, my observations and the summary I can provide on the above is unfortunately very limited.
+
+The Virginica appears to be the largest of the three flower species with the largest petal length and width. 
+The Setosa appears to be the smallest of the three flower species by a considerable way when looking at the size of it's petal length and width although it does have a larger sepal width than the other two species and it's speal length is closer to the size of the other two species than the dimensions of it's petals.
 
 
 
