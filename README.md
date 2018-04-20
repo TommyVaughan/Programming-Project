@@ -15,6 +15,13 @@ The data set consists of the measurements of four attributes of 150 iris flowers
 
 The data set can be found from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris) 
 
+#### The Python Libraries used
+
+1) Numpy is the fundamental package for scientific computing with Python. besides it's scientific uses it can also be used as an efficient multi-dimensional container of generic data.
+2) Pandas is a package providing fast, flexible and expressive data structures designed to make working with data both easy and initutive.
+3) Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+
+
 #### List of folders and their contents
 
 1) openfile.py provides a look at all of the data in the uploaded iris.csv file.
@@ -95,7 +102,13 @@ https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ - Si
 
 http://rstudio-pubs-static.s3.amazonaws.com/269829_8285925c922e445097f47925b112841f.html - Case study on Iris data classification
 
+http://www.numpy.org/ - Description of Numpy
+
+https://pandas.pydata.org/pandas-docs/stable/ - Description of Pandas
+
 http://pythonforengineers.com/introduction-to-pandas/ - Introduction to Pandas
+
+https://matplotlib.org/ - Description of Matplotlib
 
 https://www.novixys.com/blog/pandas-tutorial-select-dataframe/ - More information on Pandas specifically how to extract information on specific rows of data only
 
