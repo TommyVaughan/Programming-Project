@@ -4,7 +4,7 @@
 In this project I will be looking at the Iris data set. 
 1) I will provide a brief summary of what the Iris data set is and what it contains. 
 2) I will upload the data into Visual Studio Code to summarize and visualize the data set using the Python programming language.
-3) I will provide some analysis of the data through Visual Studio Code.
+3) I will provide some analysis of the data and a summary of my findings.
 
 ## 1. Fisher’s Iris Data Set
 
