@@ -29,7 +29,7 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 ## 2.1 A quick look at the data
 
-Below is a brief look at some of the basic information of the data set such as the mean, max and min measurements for each dimension of the flower, sepal length and width, petal length and width. Additionally I have included some histograms to help visualize this information. 
+Below is a brief look at some of the basic information of the data set such as the mean, max and min measurements for each dimension of the flower, sepal length and width, petal length and width. Additionally I have included some graphs to help visualize this information. 
 
 ![](Describe.JPG)
      
