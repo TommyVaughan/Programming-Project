@@ -20,6 +20,7 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 1) Numpy is the fundamental package for scientific computing with Python. besides it's scientific uses it can also be used as an efficient multi-dimensional container of generic data.
 2) Pandas is a package providing fast, flexible and expressive data structures designed to make working with data both easy and initutive.
 3) Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+4) SK learn provides a range of supervised and unsupervised learning algorithms via a consistent interface in Python.
 
 
 #### List of folders and their contents
@@ -79,7 +80,7 @@ Below is a brief look at some of the basic information of the data set such as t
 
 ## Analysis of the Data
 
-As the focus of this module has been around writing code in Python, and has not really touched on data analysis methodologies and techniques for analysing graphical information, my observations and the summary I can provide on the above is unfortunately very limited.
+As the focus of this module has been around writing code in Python, and has not really touched on data analysis methodologies and techniques for analysing graphical information, my observations and the summary I can provide on the above is unfortunately very limited. During my research on this project I have encountered terminology such as Regression, Bayesian, Dimension Reduction, Instance Based and Clustering. I hope to develop further knowledge on these topics as the course progresses but for now my understanding of these concepts is almost non-existent and so I am reluctant to incorporte them into this project as analysis tools as I feel this will lead to a level of complexcity that is currently outside of my understanding. 
 
 The Virginica appears to be the largest of the three flower species with the largest petal length and width. 
 The Setosa appears to be the smallest of the three flower species by a considerable way when looking at the size of it's petal length and width although it does have a larger sepal width than the other two species and it's speal length is closer to the size of the other two species than the dimensions of it's petals.
@@ -109,6 +110,8 @@ https://pandas.pydata.org/pandas-docs/stable/ - Description of Pandas
 http://pythonforengineers.com/introduction-to-pandas/ - Introduction to Pandas
 
 https://matplotlib.org/ - Description of Matplotlib
+
+https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/ - Description of SK learn
 
 https://www.novixys.com/blog/pandas-tutorial-select-dataframe/ - More information on Pandas specifically how to extract information on specific rows of data only
 
