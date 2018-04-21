@@ -13,4 +13,4 @@ data = pd.read_csv("Data/iris.csv", names = headers)
 
 
 scatter_matrix(data)
-plt.show()
+plt.show

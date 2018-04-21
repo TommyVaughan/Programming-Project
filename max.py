@@ -2,7 +2,6 @@
 # Calculate the maximum of each column of the Iris data set in the below script.
 # Column = data[:,0] gives the first column. Insert # and remove from other comment to check the value of each column.
 
-
 import numpy                                                # Read data file into arra
 
 data = numpy.genfromtxt('Data/iris.csv', delimiter=',')     # Reads a csv in array in numpy
