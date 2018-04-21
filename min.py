@@ -1,20 +1,25 @@
 # Thomas Vaughan 15/04/2018.
 # Calculate the minimum of each column of the Iris data set in the below script.
-# Column = data[:,0] gives the first column.
-# To calculate each column, change both the 0's to 1's to get the second column, 2 for the third and so on.
+# Column = data[:,0] gives the first column. Insert # and remove from other comment to check the value of each column.
 
-import numpy                                              # Read data file into array
+import numpy                                                # Read data file into array
 
-data = numpy.genfromtxt('Data/iris.csv', delimiter=',')   # Reads a csv in array in numpy
+data = numpy.genfromtxt('Data/iris.csv', delimiter=',')     # Reads a csv in array in numpy
 
-column = data[:,0]                                        # To select all of the values of a column
+column = data[:,0]                                          # To select all of the values column 1
+mincol = numpy.min(data[:,0])                               # To get the minimum value of column 1
 
-mincol = numpy.min(data[:,0])                             # To get the minimum value of that column
+# column = data[:,1]                                        # To select all of the values column 2
+# mincol = numpy.min(data[:,1])                             # To get the minimum value of column 2
+
+# column = data[:,2]                                        # To select all of the values column 3
+# mincol = numpy.min(data[:,2])                             # To get the minimum value of column 3
+
+# column = data[:,3]                                        # To select all of the values column 4
+# mincol = numpy.min(data[:,3])                             # To get the minimum value of column 4
+
 print(mincol)
 
 
-# min of col 1 (Sepal-length   = 4.3
-# min of col 2 (Sepal-width)   = 2.0
-# min of col 3 (Petal-lenght)  = 1.0
-# min of col 4 (Petal-width)   = 0.1
+
  

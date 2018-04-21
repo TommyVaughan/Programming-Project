@@ -10,7 +10,7 @@ headers = ['Sepal Length','Sepal Width','Petal Length','Petal Width','Species'] 
 data = pd.read_csv("Data/iris.csv", names = headers)                              # Data is from the iris.csv file and also shows headers that are not in the csv file.
 
 data[:]     
-print(data.describe())   
+print(data[:50].describe())   
 
 
 
