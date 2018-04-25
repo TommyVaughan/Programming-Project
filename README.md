@@ -3,8 +3,8 @@
 ## Assigned project for programming &amp; scripting module 2018, Computer Science and Data Analytics, GMIT.
 In this project I will be looking at the Iris data set. 
 1) I will provide a brief summary of what the Iris data set is and what it contains. 
-2) I will upload the data into Visual Studio Code to summarize and visualize the data set using the Python programming language.
-3) I will provide some analysis of the data and a summary of my findings.
+2) I will upload the data into Visual Studio Code to summarize and visualize the data set using the Python programming language in order to provide some analysis on the data.
+3) I will provide a summary of my findings.
 
 ## 1. Fisher’s Iris Data Set
 
@@ -65,17 +65,34 @@ Histograms are one of the most common graphs used to display numeric data. The i
 2) If the data is not symetric, it is left skewered or right skewered, then the mean may not provide a good estimate for the centre of the data.
 3) Outliers can be very high or low values that do not fall nrar any other data point. They can represent unusual cases or they may represent data errors.
 
-Looking at the histogram information on the petal length and width, the data is very skewered. We can see there are quite a high number of the species with a petal lenth of 2cm or less and so the mean calculated of 3.758 is not necessarily a true reflection of the average of the data set. The same applies for the petal width. The sepal length and width appear to be more symmetric on the histogram and so the mean of the species is more accurate for these columns.
+Looking at the histogram information on the petal length and width, the data is very skewered. We can see there are quite a high number of the species with a petal lenth of 2cm or less and so the mean calculated of 3.758 is not necessarily a true reflection of the median of the data set. The same applies for the petal width. The sepal length and width appear to be more symmetric on the histogram and so the mean of the species is more accurate for these columns.
+
+This can be backed up by looking at the mean petal length which is 3.75cm's whereas the median is 4.35cm's
  
- ![](hist.png)
+![](hist.png)
 
 #### Box and Whisker plot
+
+Boxplots present information from a five-number summary. It does not show distribution in as much detail as other graphs but it is useful for indicating weather a distribution is skewed or whether there are potential unusual observations in a data set. This type of graph is also useful when large numbers of observations are involved and when two or more data sets are being compared.
+
+For the petal length and width, we can see the medians are closer to the upper quartile range which again strengthens the information shown in the histogram that there are a high number of the species that have petal lengths and widths at the lower quartile of the data. The more central medians on the sepal length and width is a good indication of the more symmetrical data that was presented on the histograms for these columns.
 
 ![](whisker.png)
 
 #### Scatter plot
 
+Scatter plots are similar to line graphs as they also use vertical and horizontal axes to plot data points. However the specific purpose of this grapg is to show how much one variable is affected by another(correlation). The closer the data points come when plotted to making a straight line, the higher the correlation between the two variables.
+
+If the data points make a straight line from the axis origin, the relationship is said to have a positive correlation. This would appear to be the case between the petal lengths and widths of the species wherea as there appears to be no correlation between the sepal length and sepal widths of the species.
+
 ![](scat.png)
+
+## 2.3 Splitting the data set
+
+It is possible to break the data into three seperate segments to compare the three species of flowers specifically. See the species.py file. The below screenshots shows a summary of the basic statistical data from each of the three species of flower individually so they can be compared with each other.
+
+The Virginica appears to be the largest of the three flower species with the largest petal length and width. 
+The Setosa appears to be the smallest of the three flower species by a considerable way when looking at the size of it's petal length and width although it does have a larger sepal width than the other two species and it's sepal length is closer to the size of the other two species than the dimensions of it's petals.
 
 #### The Setosa data
 
@@ -89,12 +106,15 @@ Looking at the histogram information on the petal length and width, the data is 
 
 ![](virgi.JPG)
 
-## Analysis of the Data
+## Summary
 
-As the focus of this module has been around writing code in Python and has not really touched on data analysis methodologies and techniques for analysing graphical information, my observations and the summary I can provide on the above is unfortunately very limited. During my research on this project I have encountered terminology such as Regression, Bayesian, Dimension Reduction, Instance Based and Clustering. I hope to develop further knowledge on these topics as the course progresses but for now my understanding of these concepts is almost non-existent and so I am reluctant to incorporte them into this project as analysis tools as I feel this will lead to a level of complexcity that is currently outside of my understanding. Hence the below is a very basic interpretation of the data extracted from the data set.
+At the start of this project I set out with the daunting assumption that I would have to write lots of code in Python to analyze the data set and worse, turn this data into graphical information. After watching the relevant lecture videos on pandas and matplotlib, and after researching further on these and other Python libraries, it became clear that these libraries do most of the heavy lifting when it comes to data analysis and they also make plotting graphs relatively straight forward. It is clear to me that graphial analysis of data can provide additional insight to details that might not be picked up looking at a table of numbers. 
 
-The Virginica appears to be the largest of the three flower species with the largest petal length and width. 
-The Setosa appears to be the smallest of the three flower species by a considerable way when looking at the size of it's petal length and width although it does have a larger sepal width than the other two species and it's speal length is closer to the size of the other two species than the dimensions of it's petals.
+During this project I have learned how to use the python libraries to extract and present the data from a data set in a number of different graphs. However I would like to state that the focus of this module has been around writing code in Python and has not really touched on data analysis methodologies and techniques for analysing graphical information, so my observations on the data set is unfortunately very limited. 
+
+During my research on this project I have encountered terminology such as Regression, Bayesian, Dimension Reduction, Instance Based and Clustering. I hope to develop further knowledge on these topics as the course progresses but for now my understanding of these concepts is limited to non-existant and so I was reluctant to incorporte them into this project as analysis tools as I felt this would lead to a level of complexcity that is currently outside of my understanding. 
+
+
 
 
 
@@ -132,6 +152,9 @@ https://www.youtube.com/watch?v=uIcime2nBjs - Video showing how to display all c
 
 http://blog.minitab.com/blog/michelle-paret/3-things-a-histogram-can-tell-you - Information on histograms
 
+https://www.statcan.gc.ca/edu/power-pouvoir/ch12/5214889-eng.htm - Information on box and whisker plots
+
+http://mste.illinois.edu/courses/ci330ms/youtsey/scatterinfo.html - Information on scatter plots.
 
 
 
