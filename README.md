@@ -39,7 +39,23 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 ## 2.1 A quick look at the data
 
-Below is a brief look at some of the basic information of the data set such as the mean, max and min measurements for each dimension of the flower.
+Below is a brief look at some of the basic information of the data set as per the openfile.py file. 
+The screenshots below show the layout of the data in Visual Studio Code
+
+![](data.JPG)
+
+The total number of rows and columns in the data set
+
+![](datashape.JPG)
+
+The species type and the number of flowers belonging to each species type in the data set.
+
+![](dataspecies.JPG)
+
+
+## 2.2 A more detailed look at the data
+
+Below shows a summary of the basic statistical data from the data set. This can be viewied in the easy.py file.
 
 ![](Describe.JPG)
      
@@ -61,7 +77,6 @@ Looking at the histogram information on the petal length and width, the data is 
 
 ![](scat.png)
 
-## 2.2 Breaking down the data further
 #### The Setosa data
 
 ![](seto.JPG)
