@@ -119,7 +119,7 @@ During my research on this project I have encountered terminology such as Regres
 
 
 #### References
-References:
+
 https://en.wikipedia.org/wiki/Iris_flower_data_set - Information on the Iris data set
 
 http://www.idvbook.com/teaching-aid/data-sets/the-iris-data-set/ - Information on the Iris data set
