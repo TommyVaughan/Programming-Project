@@ -63,7 +63,7 @@ Below shows a summary of the basic statistical data from the data set. This can 
 Histograms are one of the most common graphs used to display numeric data. The important things that can be learned by looking at a histogram are:
 1) If the left side of a histogram resembles a mirror image of the right side then the data is said to be symmetric, where the mean is said to be a good approximation for the centre of the data. 
 2) If the data is not symetric, it is left skewered or right skewered, then the mean may not provide a good estimate for the centre of the data.
-3) Outliers can be very high or low values that do not fall nrar any other data point. They can represent unusual cases or they may represent data errors.
+3) Outliers can be very high or low values that do not fall near any other data point. They can represent unusual cases or they may represent data errors.
 
 Looking at the histogram information on the petal length and width, the data is very skewered. We can see there are quite a high number of the species with a petal lenth of 2cm or less and so the mean calculated of 3.758 is not necessarily a true reflection of the median of the data set. The same applies for the petal width. The sepal length and width appear to be more symmetric on the histogram and so the mean of the species is more accurate for these columns.
 
