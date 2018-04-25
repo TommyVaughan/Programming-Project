@@ -41,21 +41,9 @@ Below is a brief look at some of the basic information of the data set such as t
 
 ![](Describe.JPG)
      
-#### Sepal Length histogram.
+#### Histogram.
  
- ![](Col1hist.png)
-     
-#### Sepal Width histogram.
-
-![](Col2hist.png)
-
-#### Petal Length histogram.
-
-![](Col3hist.png)
-
-#### Petal Width histogram.
-
-![](Col4.hist.png)
+ ![](hist.png)
 
 #### Box and Whisker plot
 
