@@ -11,5 +11,6 @@ data[:]                                                                         
 print(data)                                                              
 
 
-# print(data.shape) to view the total number of rows and columns in the dataset.
-# print(data.groupby('Species').size()) to break the data into the three species.
+# print(data.shape)                       # to view the total number of rows and columns in the dataset.
+# print(data.groupby('Species').size())   # to break the data into the three species.
+
