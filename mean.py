@@ -1,6 +1,7 @@
 # Thomas Vaughan 12/04/2018.
 # Calculate the mean of each column of the Iris data set in the below script.
 # Column = data[:,0] gives the first column. Insert # and remove from other comment to check the value of each column.
+ 
 
 import numpy                                                # Read data file into array
 
@@ -24,6 +25,6 @@ print(meancol)
 
 
 
-# import matplotlib.pyplot as mp                            # import the matplotlib pyplot library
-# mp.hist(column)                                           # generate a histogram
-# mp.show()                                                 # show the histogram
+import matplotlib.pyplot as mp                            # import the matplotlib pyplot library
+mp.hist(column)                                           # generate a histogram
+mp.show()                                                 # show the histogram
