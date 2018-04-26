@@ -25,16 +25,16 @@ The data set can be found from the [UCI Machine Learning Repository](https://arc
 
 #### List of folders and their contents
 
-1) openfile.py provides a look at all of the data in the uploaded iris.csv file.
-2) mean.py calculates the average value of each column in the data set.
-3) min.py calculates the minimum value of each column in the data set.
-4) max.py calculates the maximum value of each column in the data set.
-5) medi.py calculates the median value of each column in the data set.
-6) easy.py is a much quicker way to calculate the above data. I only discovered this later in the project.
-7) hist.py generates a histogram of the data.
-8) whisk.py generates a box and whisker plot of the data.
-9) scat.py generates a scatter plot of the data.
-10) species.py splits the data into the three seperate species for further analysis.
+1) [openfile.py](https://github.com/TommyVaughan/Programming-Project/blob/master/openfile.py) provides a look at all of the data in the uploaded iris.csv file. 
+2) [mean.py](https://github.com/TommyVaughan/Programming-Project/blob/master/mean.py) calculates the average value of each column in the data set.
+3) [min.py](https://github.com/TommyVaughan/Programming-Project/blob/master/min.py) calculates the minimum value of each column in the data set.
+4) [max.py](https://github.com/TommyVaughan/Programming-Project/blob/master/max.py) calculates the maximum value of each column in the data set.
+5) [medi.py](https://github.com/TommyVaughan/Programming-Project/blob/master/medi.py) calculates the median value of each column in the data set.
+6) [easy.py](https://github.com/TommyVaughan/Programming-Project/blob/master/easy.py) is a much quicker way to calculate the above data. I only discovered this later in the project.
+7) [hist.py](https://github.com/TommyVaughan/Programming-Project/blob/master/hist.py) generates a histogram of the data.
+8) [whisk.py](https://github.com/TommyVaughan/Programming-Project/blob/master/whisk.py) generates a box and whisker plot of the data.
+9) [scat.py](https://github.com/TommyVaughan/Programming-Project/blob/master/scat.py) generates a scatter plot of the data.
+10) [species.py](https://github.com/TommyVaughan/Programming-Project/blob/master/species.py) splits the data into the three seperate species for further analysis.
 
 
 ## 2.1 A quick look at the data
