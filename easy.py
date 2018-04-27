@@ -1,5 +1,5 @@
 # Thomas Vaughan 18/04/2018
-# I found a much quicker way to calculate some basic information from the data set from https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html                  
+# I found a much quicker way to calculate some basic information from
 # https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html                  
  
 
